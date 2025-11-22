@@ -96,7 +96,8 @@ UserStats (points, streak, badges[])
 - **Metrics**: Average session hours, total study time, consistency patterns
 - **Validation**: User feedback on classification accuracy
 - **Testing**: Boundary testing for habit thresholds
-Features 
+
+## Features 
 1. we can add multiple subjects 
 2. Delete individual subjects
 3. Clear all subjects data
@@ -105,30 +106,30 @@ Features
 6.Set daily study goals
 7.Set weekly achievement goals
 
-Tools used-
+## Tools used-
 I have used python language using it's standard libraries. some of the used modules are -
 1. Matplotlib.pyplot 
 2.random
 3.datetime
 4.numpy
 
-Techniques used-
+## Techniques used-
 CRUD - create, read, update, delete 
 Model View Controller - it is used to access subjects, sessions, goals etc 
 
-Steps to install and run the program- 
+## Steps to install and run the program- 
 1. Install Python 3.6+ on your system
 2. Copy the entire python code
 3. Create a new file called study_planer.py
 4. Paste the code into the file
 5. Save the file
 6. Install the required libraries mentioned above
-Run the program
+## Run the program
 1. Open python idle
 2. Open the file , select study_planner.py
 3. Click on run button
 
-Testing Instructions-
+## Testing Instructions-
 1. Checking subjects 
 Steps:
 1. Choose Option 1 "Add Subjects"
@@ -137,7 +138,7 @@ Steps:
 4. Enter: "SUBJECT NAME 3"
 5. Enter: "done"
 
-Expected Results:
+## Expected Results:
 "Added: SUBJECT NAME 1"
 "Added: SUBJECT NAME 2" 
 "Added: SUBJECT NAME 3"
@@ -150,7 +151,7 @@ Subjects list contains all three subjects
 3. For Physics: Enter "1.5" 
 4. For Chemistry: Enter "1"
 
-Expected Results:
+## Expected Results:
  All subjects get time allocations
 "Time allocation completed" message
 Numbers stored as floats.
