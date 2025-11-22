@@ -2,31 +2,31 @@
 Description - a student study planner is used to organise a student's life and help them balance all the subjects effectively. 
 
 Overview of the Project 
-● Many students want to study but cannot utilize that opportunity effectively due to poor management of time and unclear goals .
+1. Many students want to study but cannot utilize that opportunity effectively due to poor management of time and unclear goals .
 The student planner is a useful program that helps students to devise a study plan keeping in check the goals of a student and ensures wise management of time . 
 It also helps the students to decide the time they want spend on each domain of subjects respectively and helps to  improve their academic performance .
 
 OBJECTIVES - STUDENT STUDY PLANNER 
-● To set a routine to be followed 
-● Setting clear goals 
-● Improving time management 
-● Increasing productivity with proper goals
+1. To set a routine to be followed 
+2. Setting clear goals 
+3. Improving time management 
+4. Increasing productivity with proper goals
 
 Features 
-● we can add multiple subjects 
-● Delete individual subjects
-● Clear all subjects data
-●Set daily study hours per subject
-●Automatic weekly hour calculation (daily × 7)
-●Set daily study goals
-●Set weekly achievement goals
+1. we can add multiple subjects 
+2. Delete individual subjects
+3. Clear all subjects data
+4.Set daily study hours per subject
+5.Automatic weekly hour calculation (daily × 7)
+6.Set daily study goals
+7.Set weekly achievement goals
 
 Tools used-
 I have used python language using it's standard libraries. some of the used modules are -
-● Matplotlib.pyplot 
-●random
-●datetime
-●numpy
+1. Matplotlib.pyplot 
+2.random
+3.datetime
+4.numpy
 
 Techniques used-
 CRUD - create, read, update, delete 
