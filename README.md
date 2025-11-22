@@ -1,5 +1,5 @@
-# Student-Study-Planner-
-**Description ** - a student study planner is used to organise a student's life and help them balance all the subjects effectively. 
+Student-Study-Planner
+Description  - a student study planner is used to organise a student's life and help them balance all the subjects effectively. 
 
 Overview of the Project 
 1. Many students want to study but cannot utilize that opportunity effectively due to poor management of time and unclear goals .
@@ -69,4 +69,5 @@ Subjects list contains all three subjects
 Expected Results:
  All subjects get time allocations
 "Time allocation completed" message
-Numbers stored as floats
+Numbers stored as floats.
+
