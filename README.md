@@ -16,10 +16,7 @@ The student planner is a valuable application that supports students in developi
 ## **Functional Requirements**
 - Subject management (add/delete) with validation
 - Time allocation with input validation
-- Goal setting (daily/weekly) with tracking
 - Study session logging with timestamps
-- Reward system with points, streaks, badges
-- Data visualization using matplotlib
 - Analytics (performance prediction, habit classification)
 - CRUD operations with data integrity
 - Activity logging and audit trail
@@ -29,8 +26,6 @@ The student planner is a valuable application that supports students in developi
 - Comprehensive error handling and input validation
 - Fast response times with efficient data structures
 - Modular code for maintainability and extensibility
-- File-based logging for persistence
-- Input sanitization and safe operations
 
 ## **System Architecture Diagram**
 ```
