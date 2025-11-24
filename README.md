@@ -151,8 +151,5 @@ Subjects list contains all three subjects
 3. For Physics: Enter "1.5" 
 4. For Chemistry: Enter "1"
 
-## Expected Results:
- All subjects get time allocations
-"Time allocation completed" message
-Numbers stored as floats.
+
 
