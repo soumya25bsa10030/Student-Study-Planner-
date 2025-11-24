@@ -1,17 +1,16 @@
 ## Student-Study-Planner
-## Description  -
-a student study planner is used to organise a student's life and help them balance all the subjects effectively. 
+## Description  
+A student study planner helps a student organize their life and manage the subjects they are studying. 
 
 ## Overview of the Project 
-1. Many students want to study but cannot utilize that opportunity effectively due to poor management of time and unclear goals .
-The student planner is a useful program that helps students to devise a study plan keeping in check the goals of a student and ensures wise management of time . 
-It also helps the students to decide the time they want spend on each domain of subjects respectively and helps to  improve their academic performance .
+1. Many students are willing to study, but cannot capitalize on the opportunity to study because they do not manage their time well and do not have specific goals. 
+The student planner is a valuable application that supports students in developing a study plan that supports student goals and imposes time management. The student planner allows students to determine the amount of time from studying they want to devote to each subject domain, respectively, while contributing to overall academic performance. 
 
-## OBJECTIVES - STUDENT STUDY PLANNER 
-1. To set a routine to be followed 
-2. Setting clear goals 
-3. Improving time management 
-4. Increasing productivity with proper goals
+## OBJECTIVES - STUDENT STUDY PLANNER
+1. To establish a routine 
+2. Establish clear goals 
+3. Improve time management 
+4. Increase productivity with clear goals
 
 
 ## **Functional Requirements**
